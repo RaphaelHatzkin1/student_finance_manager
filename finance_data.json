@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "id": "4c4a0120-05d3-4f8e-95b9-1be6b6d028d8",
+      "kind": "Expense",
+      "title": "Transport",
+      "category": "Transport",
+      "amount": 200.0,
+      "transaction_date": "2026-10-22",
+      "note": ""
+    },
+    {
+      "id": "5ef6a87e-0f67-47cb-8e3b-23c806b7d5f5",
+      "kind": "Income",
+      "title": "Holiday Job",
+      "category": "Salary / job",
+      "amount": 1500.0,
+      "transaction_date": "2026-10-22",
+      "note": ""
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Savings",
+      "limit": 300.0
+    }
+  ],
+  "goals": [
+    {
+      "title": "New Laptop",
+      "target": 28000.0,
+      "saved": 600.0
+    }
+  ]
+}
